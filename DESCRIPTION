@@ -14,3 +14,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
+URL: https://github.com/RayNguyent/assignment5
+BugReports: https://github.com/RayNguyent/assignment5/issues
