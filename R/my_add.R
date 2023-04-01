@@ -8,10 +8,8 @@
 #'
 #' @export
 #'
-#' @example
-#' my_add(1,2)
 #'
-#'
+
 my_add <- function(x,y = 10) {
   if ((!is.numeric(x)) | (!is.numeric(y))) {
    if((is.na(x)) | (is.na(y))) {
